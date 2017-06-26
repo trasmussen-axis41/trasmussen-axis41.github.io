@@ -4,6 +4,9 @@ nav {
     width: 60%;
     position: relative;
 }
+.secondary-nav {
+	float: right;
+}
 .main-nav {
 	position: absolute;
     bottom: 0;
