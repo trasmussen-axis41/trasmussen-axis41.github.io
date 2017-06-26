@@ -27,5 +27,6 @@ a {
     text-align: center;
 }
 .dropdown-container {
-	padding-top: 100px;
+	margin: auto;
+    width: 60%;
 }
