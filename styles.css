@@ -33,3 +33,7 @@ a {
 	margin: auto;
     width: 60%;
 }
+.dropdown-container .mega-col {
+	width: 33%;
+	float: left;
+}
