@@ -5,11 +5,12 @@ nav {
     position: relative;
 }
 a {
-	margin:5px 0;
+	padding: 10px;
 }
 .secondary-nav {
 	float: right;
 }
+
 .main-nav {
 	position: absolute;
     bottom: 0;
@@ -19,4 +20,12 @@ a {
 	margin: auto;
     width: 50%;
     text-align: center;
+}
+.main-nav-links {
+	margin: auto;
+    width: 100%;
+    text-align: center;
+}
+.dropdown-container {
+	padding-top: 100px;
 }
