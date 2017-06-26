@@ -26,6 +26,9 @@ a {
     width: 100%;
     text-align: center;
 }
+.main-nav-links span {
+	padding: 10px;
+}
 .dropdown-container {
 	margin: auto;
     width: 60%;
