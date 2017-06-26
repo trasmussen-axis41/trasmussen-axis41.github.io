@@ -1,3 +1,10 @@
 nav {
-	height: 76px;
+	height: 100px;
+    margin: auto;
+    width: 60%;
+    position: relative;
+}
+.main-nav {
+	position: absolute;
+    bottom: 0;
 }
