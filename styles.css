@@ -4,10 +4,19 @@ nav {
     width: 60%;
     position: relative;
 }
+a {
+	margin:5px 0;
+}
 .secondary-nav {
 	float: right;
 }
 .main-nav {
 	position: absolute;
     bottom: 0;
+    width: 100%;
+}
+.main-nav-container {
+	margin: auto;
+    width: 50%;
+    text-align: center;
 }
