@@ -7,7 +7,7 @@
 
 
 nav {
-	background-color: #CCC;
+	background-color: #EEE;
 }
 a {
 	padding: 10px;
@@ -17,7 +17,6 @@ a {
     margin: auto;
     width: 60%;
     position: relative;
-    background-color: #CCC;
 }
 .secondary-nav {
 	float: right;
