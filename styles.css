@@ -58,10 +58,10 @@ a {
     height: 300px;
     background-color: #7BF;
 }
-.dropdown-container:first-child { 
+.dropdown-container .mega-col:first-child { 
     padding-left: 5%;
     background-color: #DDD;
 }
-.dropdown-container:last-child { 
+.dropdown-container .mega-col:last-child { 
     padding-left: 5%;
 }
