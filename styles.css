@@ -30,6 +30,9 @@ a {
 	padding: 10px;
 }
 .dropdown-container {
+	
+}
+.dropdown-container div {
 	margin: auto;
     width: 60%;
 }
