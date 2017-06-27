@@ -48,10 +48,12 @@ a {
 
 
 .dropdown-container {
-	background-color: gray;
-    height: 300px;
+	position: fixed;
+    width: 100%;
 }
-
+.dropdown-container > div {
+	width: 100%;
+}
 .dropdown-container .mega-col {
 	width: 30%;
     float: left;
