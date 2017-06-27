@@ -30,7 +30,8 @@ a {
 	padding: 10px;
 }
 .dropdown-container {
-	
+	background-color: gray;
+    height: 300px;
 }
 .dropdown-container div {
 	margin: auto;
