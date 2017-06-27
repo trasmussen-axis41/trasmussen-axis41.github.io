@@ -40,6 +40,15 @@ a {
     width: 60%;
 }
 .dropdown-container .mega-col {
-	width: 33%;
-	float: left;
+	width: 30%;
+    float: left;
+    height: 300px;
+    background-color: #7BF;
+}
+.dropdown-container:first-child { 
+    padding-left: 5%;
+    background-color: #DDD;
+}
+.dropdown-container:last-child { 
+    padding-left: 5%;
 }
