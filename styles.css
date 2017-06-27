@@ -1,14 +1,14 @@
 nav {
-	height: 100px;
-    margin: auto;
-    width: 60%;
-    position: relative;
+	background-color: #CCC;
 }
 a {
 	padding: 10px;
 }
 .nav-container {
-	background-color: #CCC;
+	height: 100px;
+    margin: auto;
+    width: 60%;
+    position: relative;
 }
 .secondary-nav {
 	float: right;
