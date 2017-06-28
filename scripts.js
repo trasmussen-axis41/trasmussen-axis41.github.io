@@ -18,9 +18,9 @@
 		$('.dropdown-container > div').hide();
 		$('.dropdown-container').slideUp();
 	});
-	$('.dropdown-container').on('mouseleave',function(evt)) {
+	$('.dropdown-container').on('mouseleave',function(evt) {
 		$('.dropdown-container > div').hide();
 		$('.dropdown-container').slideUp();
-	}
+	});
 
 })();
