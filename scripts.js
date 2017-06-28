@@ -9,7 +9,7 @@
 	});
 	$('.main-nav-links span').on('mouseleave',function(evt){
 		var v = document.elementFromPoint(evt.pageX, evt.pageY);
-		var r = $(v).closest('.main-nav');
+		var r = $(v).closest('.dropdown-container');
 		if(r.length) {
 			return;
 		}
@@ -20,7 +20,7 @@
 	});
 	$('.dropdown-container').on('mouseleave',function(evt) {
 		var v = document.elementFromPoint(evt.pageX, evt.pageY);
-		var r = $(v).closest('.dropdown-container');
+		var r = $(v).closest('.main-nav');
 		if(r.length) {
 			return;
 		}
