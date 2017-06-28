@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	font-family: Sans-Serif;
 }
 .left {
 	float: left;
@@ -50,6 +51,7 @@ a {
 .dropdown-container {
 	position: fixed;
     width: 100%;
+    border-top: 1px solid;
 }
 .dropdown-container > div {
 	width: 100%;

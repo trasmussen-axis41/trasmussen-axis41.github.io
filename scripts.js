@@ -1,6 +1,6 @@
 (function() {
 	console.log("Hello");
-	$('.main-nav-links span').on('click',function(){
+	$('.main-nav-links span').on('mouseenter mouseleave',function(){
 		var element = $(this).data('element');
 		console.log($(this).data('element'));
 		$('.dropdown-container > div').hide();
