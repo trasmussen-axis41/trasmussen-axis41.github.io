@@ -15,7 +15,6 @@
 		}
 		var element = $(this).data('element');
 		console.log($(this).data('element'));
-		$('.dropdown-container > div').hide();
 		$('.dropdown-container').stop().slideUp();
 	});
 	$('.dropdown-container').on('mouseleave',function(evt) {
@@ -24,7 +23,6 @@
 		if(r.length) {
 			return;
 		}
-		$('.dropdown-container > div').hide();
 		$('.dropdown-container').stop().slideUp();
 	});
 
