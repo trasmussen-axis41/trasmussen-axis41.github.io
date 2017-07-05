@@ -80,11 +80,9 @@ li a {
     background-color: #e2e2e2;
 }
 .dropdown-container .mega-col:first-child { 
-    padding-left: 5%;
     background-color: #ececec;
 }
 .dropdown-container .mega-col:last-child { 
-    padding-right: 5%;
 }
 .dropdown-container .mega-col > .title {
     height: 20px;
