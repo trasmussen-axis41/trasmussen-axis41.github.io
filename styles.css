@@ -10,7 +10,7 @@ body {
 }
 
 nav {
-	background-color: #EEE;
+	background-color: #e6e6e6;
 }
 a {
 	padding: 10px;
@@ -75,7 +75,12 @@ a {
 }
 
 
+
 .main {
+    margin-top: 15px;
     margin-left: 5%;
     margin-right: 5%;
+    background-color: #eee;
+    height: 2000px;
+    background-color: #fafafa;
 }
