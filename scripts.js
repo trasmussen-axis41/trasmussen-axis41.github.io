@@ -5,6 +5,7 @@
 		console.log($(this).data('element'));
 		$('.dropdown-container > div').hide();
 		$('.dropdown-container div[data-element="' + element + '"]').show();
+		$('.dropdown-container .dropdown-background').show();
 		$('.dropdown-container').stop().slideDown();
 	});
 	$('.main-nav-links span').on('mouseleave',function(evt){
