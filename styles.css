@@ -24,6 +24,9 @@ a {
 .secondary-nav {
 	float: right;
 }
+.secondary-nav a {
+    display: inline-block;
+}
 .main-nav {
 	position: absolute;
     bottom: 0;
@@ -41,6 +44,7 @@ a {
 }
 .main-nav-links span {
 	padding: 10px;
+    display: inline-block;
 }
 .register-sign-in {
 	margin-left: 20px;
