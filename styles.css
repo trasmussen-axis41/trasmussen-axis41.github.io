@@ -16,6 +16,21 @@ a {
 	padding: 10px;
     text-decoration: none;
 }
+ul {
+    list-style-type: none;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+} 
+li a {
+    text-decoration: underline;
+    padding: 10px 0;
+}
+.list {
+    padding: 10px 0;
+}
 .nav-container {
 	height: 100px;
     margin: auto;
