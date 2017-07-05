@@ -9,7 +9,6 @@ body {
 	float:  right;
 }
 
-
 nav {
 	background-color: #EEE;
 }
@@ -47,7 +46,6 @@ a {
 	margin-left: 20px;
 }
 
-
 .dropdown-container {
 	position: fixed;
     width: 100%;
@@ -68,4 +66,9 @@ a {
 }
 .dropdown-container .mega-col:last-child { 
     padding-right: 5%;
+}
+
+.main {
+    margin-left: 5%;
+    margin-right: 5%;
 }
