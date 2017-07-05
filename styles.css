@@ -67,6 +67,13 @@ a {
 .dropdown-container .mega-col:last-child { 
     padding-right: 5%;
 }
+.title {
+    margin: 15px;
+}
+.title:before {
+    content: ' ';
+}
+
 
 .main {
     margin-left: 5%;
