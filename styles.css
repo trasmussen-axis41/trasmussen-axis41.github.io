@@ -71,6 +71,7 @@ li a {
 }
 .dropdown-container > div {
 	width: 1080px;
+    margin: 0 auto;
 }
 .dropdown-container .mega-col {
 	width: 30%;
