@@ -67,6 +67,9 @@ a {
 .dropdown-container .mega-col:last-child { 
     padding-right: 5%;
 }
+.dropdown-container .mega-col > .title {
+    height: 20px;
+}
 .title {
     margin: 15px;
 }
