@@ -10,7 +10,7 @@ body {
 }
 
 nav {
-	background-color: #e6e6e6;
+	background-color: #f4f4f4;
 }
 a {
 	padding: 10px;
@@ -58,7 +58,7 @@ a {
 	width: 30%;
     float: left;
     height: 400px;
-    background-color: #7BF;
+    background-color: #bbb;
 }
 .dropdown-container .mega-col:first-child { 
     padding-left: 5%;
@@ -74,10 +74,8 @@ a {
     content: ' ';
 }
 
-
-
 .main {
-    margin-top: 15px;
+    padding-top: 15px;
     margin-left: 5%;
     margin-right: 5%;
     background-color: #eee;
