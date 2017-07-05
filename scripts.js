@@ -3,7 +3,7 @@
 	$('.main-nav-links span').on('mouseenter',function(){
 		var element = $(this).data('element');
 		console.log($(this).data('element'));
-		$('.dropdown-container > div').hide();
+		$('.dropdown-container > div').not('.dropdown-background').hide();
 		$('.dropdown-container div[data-element="' + element + '"]').show();
 		$('.dropdown-container').stop().slideDown();
 	});
