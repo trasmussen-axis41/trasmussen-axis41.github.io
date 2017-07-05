@@ -35,7 +35,7 @@ li a {
 .nav-container {
 	height: 100px;
     margin: auto;
-    width: 60%;
+    width: 1080px;
     position: relative;
 }
 .secondary-nav {
@@ -97,8 +97,8 @@ li a {
 
 .main {
     padding-top: 15px;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 1080px;
+    margin: 0 auto;
     background-color: #eee;
     height: 2000px;
     background-color: #fafafa;
