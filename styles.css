@@ -13,7 +13,6 @@ nav {
 	background-color: #f4f4f4;
 }
 a {
-	padding: 10px;
     text-decoration: none;
 }
 ul {
@@ -43,6 +42,7 @@ li a {
 }
 .secondary-nav a {
     display: inline-block;
+    padding: 10px;
 }
 .main-nav {
 	position: absolute;
