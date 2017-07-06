@@ -105,6 +105,11 @@ li a {
     background-color: blue;
     height: 100%;
 }
+.promo-info .content {
+    padding: 0 15px 15px 15px;
+    width: 270px;
+    background-color: white;
+}
 
 .main {
     padding-top: 15px;
